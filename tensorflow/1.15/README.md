@@ -42,5 +42,7 @@ Distributed under the Apache License. See `LICENSE` for more information.
 ## Contact
 
 Debayan Deb - debayan@lenscorp.ai
+
 Azhan Mohammed - mohd.azhan@lenscorp.ai
+
 Aishvary Pratap - aishvary@lenscorp.ai
